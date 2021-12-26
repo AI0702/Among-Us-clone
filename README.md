@@ -1,5 +1,5 @@
 # Among Us (clone)
-An unofficial clone of the popular multiplayer game 'Among Us', developed in Python using various supported libraries, as a final year project. Assets ripped from the from the game. Support for upto 5 (or more?) players via LAN.
+An unofficial clone of the popular multiplayer game 'Among Us', developed in Python using various supported libraries. Support for upto 5 (or more?) players via LAN. Assets ripped from the from the game.
 
 ## Requirements
 * python 3.X 
