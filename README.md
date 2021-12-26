@@ -1,4 +1,4 @@
-# Among_Us_clone
+# Among Us (clone)
 An unofficial clone of the popular multiplayer game 'Among Us', developed in Python using various supported libraries, as a final year project. Assets ripped from the from the game. Support for upto 5 (or more?) players via LAN.
 
 ## Requirements
@@ -79,3 +79,8 @@ An unofficial clone of the popular multiplayer game 'Among Us', developed in Pyt
 ![ui_35_server](https://user-images.githubusercontent.com/69671663/147409059-2ce0dda8-87a3-4189-ba29-1ec39249814e.png)
 
 
+# Credits
+* [Innersloth](https://www.innersloth.com) for their game 'Among Us' and assets. 
+* [kidscancode](https://github.com/kidscancode) for their [tutorial](https://www.youtube.com/watch?v=3UxnelT9aCo&list=PLsk-HSGFjnaGQq7ybM8Lgkh5EMxUWPm2i), and [sample projects](https://github.com/kidscancode/pygame_tutorials) used as the base for the game. 
+* [Albert-91](https://github.com/Albert-91) for his [project](https://github.com/Albert-91), used as a reference.
+* [PlainSight](https://github.com/PlainSight) for his [project](https://github.com/PlainSight/pygameblog), used as a base for the multiplayer functionality.
