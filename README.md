@@ -113,7 +113,7 @@ An unofficial clone of the popular multiplayer game 'Among Us', developed in Pyt
 
 
 # Credits
-* [Innersloth](https://www.innersloth.com) for their game 'Among Us' and assets. 
+* [Innersloth](https://www.innersloth.com) for their game 'Among Us' and its assets. 
 * [kidscancode](https://github.com/kidscancode) for their [tutorial](https://www.youtube.com/watch?v=3UxnelT9aCo&list=PLsk-HSGFjnaGQq7ybM8Lgkh5EMxUWPm2i), and [sample projects](https://github.com/kidscancode/pygame_tutorials) used as the base for the game. 
 * [Albert-91](https://github.com/Albert-91) for his [project](https://github.com/Albert-91/zombie-in-clab), used as a reference.
 * [PlainSight](https://github.com/PlainSight) for his [project](https://github.com/PlainSight/pygameblog), used as a base for the multiplayer functionality.
