@@ -41,7 +41,7 @@ An unofficial clone of the popular multiplayer game 'Among Us', developed in Pyt
 * `Up` `Down` `Left` `Right` `W` `S` `A` `D` Move
 * `Space` Interact, Perform Actions, Vent
 * `Left Click` View Tasks, Complete Tasks, Vote. 
-  * Click on the 'Tasks' button on the top-right to view the list of tasks. 
+  * Click on the 'Tasks' button on the top-left to view the list of tasks. 
   * When a task window is displayed, click on appropriate hotspots to complete the task. 
   * During voting, click on the checkbox next to a player to vote.
 * `Tab` View Map
