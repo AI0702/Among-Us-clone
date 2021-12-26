@@ -31,9 +31,14 @@ An unofficial clone of the popular multiplayer game 'Among Us', developed in Pyt
 * Enter IP Address and Port of the voice chat server (displayed in the server console). 
 
 ### Controls
-* `Up` `Down` `Left` `Right` `W` `S` `A` `D` Navigate Menu, Move
-* `Enter` Navigate Menu
-* `Esc` Pause, Back
+
+#### Menu
+* `Up` `Down` `Left` `Right` `W` `S` `A` `D` Navigate Menu
+* `Enter` Select
+* `Esc` Back
+
+#### Game
+* `Up` `Down` `Left` `Right` `W` `S` `A` `D` Move
 * `Space` Interact, Perform Actions, Vent
 * `Left Click` View Tasks, Complete Tasks, Vote. 
   * Click on the 'Tasks' button on the top-right to view the list of tasks. 
